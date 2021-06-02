@@ -1,0 +1,3 @@
+config BR2_PACKAGE_PYTHON_SANIC_ROUTING
+	bool "python-sanic-routing"
+	depends on BR2_PACKAGE_PYTHON3

@@ -1,0 +1,3 @@
+config BR2_PACKAGE_PYTHON_HTTPTOOLS
+	bool "python-httptools"
+	depends on BR2_PACKAGE_PYTHON3
